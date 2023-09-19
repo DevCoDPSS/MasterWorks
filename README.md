@@ -1,12 +1,73 @@
 # Hello world!
 
-This is the official tech club of Delhi Private School, Sharjah, and we want you to be a part of our 
-journey on the path to encoded heaven. We're excited that you're interested in joining our tech-savvy community dedicated to fostering individuals with a burning passion for technology, 
-innovation, and creativity amongst high school students like you.
+This is the official tech club of Delhi Private School, Sharjah, and we want you to be a part of our journey on the path to encoded heaven. We're excited that you're interested in joining our tech-savvy community dedicated to fostering individuals with a burning passion for technology, innovation, and creativity amongst high school students like you.
 
 # MasterWorks
 Single Public repository to showcase all major works
 
 # Founders:
-Amal Backer,
-Saksham Tehri
+- Amal Backer
+- Saksham Tehri
+
+# Contributors:
+- Samarth Tehri
+
+---
+
+# Tutorials
+- [Basics](#basics)
+- [Technology Development](#technology-development)
+- [Soft Skills](#soft-skills)
+
+---
+
+# Basics
+- Git and Github
+  - ![image](https://user-images.githubusercontent.com/38863493/181713720-bf3c2b60-a4a6-451a-9be8-c01dc10d2ece.png)
+  - Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
+  - GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
+  - Here are some suggested tutorials to develop these skills: (I recommend starting with FreeCodeCamp's beginners crash-course
+    - [FreeCodeCamp's Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org)
+    - [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg&ab_channel=freeCodeCamp.org)
+    - [Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more](https://www.youtube.com/watch?v=qsTthZi23VE&ab_channel=freeCodeCamp.org)
+  
+- [MIT's Missing CS course](https://missing.csail.mit.edu/)
+
+# Technology Development
+- ## Full Stack Development
+  - [The Odin Project](https://www.theodinproject.com): The Odin Project is a coding bootcamp that provides an open-source curriculum to students who want to learn to code but can't afford to join traditional education paths. The Odin Project's online programs cover languages like JavaScript, HTML and CSS, Ruby on Rails, and Node. I recommend starting from foundationals then take the javascript track.
+  - [Full Stack Open](https://fullstackopen.com/): Take control of React, Redux, Node.js, MongoDB, GraphQL and TypeScript! The course introduces you to modern web application development using JavaScript. The content is the same as in the Full stack course held at the Department of Computer Science at the University of Helsinki
+- ## Backend Specific
+    - ### Java 
+      - [Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/): The most popular web framework for Java. At its core it is an application framework and inversion of control container for the Java platform. The framework's core features can be used by any Java application, but there are extensions for building web applications on top of the Java EE platform.
+      - [Spring Boot Quickstart](https://spring.io/guides/gs/spring-boot/)
+      - [Extra References](https://www.baeldung.com/)
+    - ### Kotlin
+      - [Ktor](https://ktor.io/learn/) A framework built by JetBrains for creating Web applications in Kotlin, making use of coroutines for high scalability and offering an easy-to-use and idiomatic API.
+      - [Micronaut](https://micronaut.io/learn/) A modern JVM-based full-stack framework for building modular, easily testable microservices and serverless applications. It comes with a lot of useful built-in features.
+- ## DevOps
+  - 
+
+- ## Cloud Technologies
+  - So you've written the code, now you want to deploy it!
+    Let's break down the ways to run your software into 3 categories that every dev should know.
+    - ### Website/Frontend App
+      Perhaps you have a portfolio, personal website, or landing page amd you need to quickly serve up those pages at a domain.
+    - ### Web App, Application Hosting 
+      On top of providing you the tools to launch web apps, cloud hosting platforms let you allocate customs VMs, databases, and containers.
+  
+    - ### Cloud Infrastructure Providers
+      These cloud providers give you access to cloud resources for specific scenarios. Large software companies depend on these providers and some jobs focus around designing this infrastructure.
+      - [Azure](https://azure.microsoft.com/en-us/) Azure is Microsoft's cloud offerings. The GitHub Student Pack that comes with university emails gives you $100 in credits.
+      - [Azure for students](https://azure.microsoft.com/en-us/free/students/?WT.mc_id=academic-9938-cxa)
+
+- ## Firmware-Embedded
+  - 
+
+- ## Hardware
+  - 
+
+- ## Self-Learn: [Teach yourself CS](https://teachyourselfcs.com/): learn everything about Computer Science
+
+# Soft Skills
+- Work in progress
