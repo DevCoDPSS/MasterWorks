@@ -8,5 +8,5 @@ innovation, and creativity amongst high school students like you.
 Single Public repository to showcase all major works
 
 # Founders:
-Amal Backer
+Amal Backer,
 Saksham Tehri
